@@ -1,0 +1,155 @@
+{
+  "version": 1,
+  "records": {
+    "chain": {
+      "label": "Chain",
+      "kind": "chain",
+      "state": "stated",
+      "value": {
+        "name": "Robinhood Chain",
+        "id": 4663,
+        "idHex": "0x1237",
+        "rpc": "https://rpc.mainnet.chain.robinhood.com"
+      },
+      "source": "client statement 2026-09-02 batch-level",
+      "dated": "2026-09-02"
+    },
+    "ca": {
+      "label": "Token contract",
+      "kind": "address",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "x": {
+      "label": "X",
+      "kind": "url",
+      "state": "stated",
+      "url": "https://x.com/rouma_fun",
+      "source": "client confirmation 2026-10-05",
+      "dated": "2026-10-05"
+    },
+    "github": {
+      "label": "GitHub",
+      "kind": "url",
+      "state": "stated",
+      "url": "https://github.com/RoumaFun/rouma-protocol",
+      "source": "client confirmation 2026-10-05",
+      "dated": "2026-10-05"
+    },
+    "window": {
+      "label": "Launch window",
+      "kind": "window",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "activity": {
+      "label": "Activity feed",
+      "kind": "list",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "stat.listed": {
+      "label": "Tokens listed",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "stat.trading": {
+      "label": "Trading now",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "stat.turnover": {
+      "label": "Turnover",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "stat.rebates": {
+      "label": "Rebates issued",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "stat.budget": {
+      "label": "Budget topped up",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "fee.compute": {
+      "label": "Compute share",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "fee.holders": {
+      "label": "Holder share",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "fee.maker": {
+      "label": "Maker share",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "fee.stakers": {
+      "label": "Staker share",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "fee.total": {
+      "label": "Combined take",
+      "kind": "figure",
+      "state": "absent",
+      "value": null,
+      "source": null,
+      "dated": "2026-10-05"
+    },
+    "src.dexscreener": {
+      "label": "Pairs source",
+      "kind": "source",
+      "state": "stated",
+      "value": "https://api.dexscreener.com/latest/dex/search",
+      "slug": "robinhood",
+      "source": "client instruction 2026-10-05",
+      "dated": "2026-10-05"
+    },
+    "src.llama": {
+      "label": "TVL source",
+      "kind": "source",
+      "state": "stated",
+      "value": "https://api.llama.fi/v2/chains",
+      "source": "client instruction 2026-10-05",
+      "dated": "2026-10-05"
+    }
+  }
+}

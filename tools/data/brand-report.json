@@ -1,0 +1,177 @@
+{
+ "assets": {
+  "brand/LOGO ROUMA JPG.jpg.jpeg": {
+   "sha256": "e56feb352c98a42939654fb547544a5440ace9d31f9937d0c8f1fb8366631726",
+   "bytes": 206140
+  },
+  "brand/LOGO ROUMA PNG...png": {
+   "sha256": "58d0f6d671fded5e148fdaec4ade2c8c79fac0a76b0b04b75022465d9255f373",
+   "bytes": 200520
+  },
+  "brand/LOGO ROUMA PNG.png": {
+   "sha256": "4f2e725b0ccde13aa2b685e9c33f0dd216866fecc990eca1983ba0f71d4fac67",
+   "bytes": 317845
+  },
+  "reference/SAMPUL ROUMA JPG.jpg.jpeg": {
+   "sha256": "71037c28a6481ed12a4e942f644fa471d26eac0619f176ea79576171dc806d82",
+   "bytes": 339104
+  }
+ },
+ "logoPng": {
+  "colourType": 6,
+  "colourTypeName": "truecolour+alpha",
+  "bitDepth": 8,
+  "transparent": 3546073,
+  "pureBlackWhereTransparent": 3546073,
+  "partialAlpha": 30547,
+  "bbox": [
+   649,
+   572,
+   702,
+   858
+  ],
+  "fringe": {
+   "20": {
+    "width": 16,
+    "premultipliedMinLuma": 215,
+    "naiveMinLuma": 1
+   },
+   "40": {
+    "width": 33,
+    "premultipliedMinLuma": 165,
+    "naiveMinLuma": 1
+   },
+   "60": {
+    "width": 49,
+    "premultipliedMinLuma": 140,
+    "naiveMinLuma": 0
+   }
+  },
+  "outputs": {
+   "src/assets/logo-20.png": "0b03d33e9d581b3d6f56c00e663ce9bbd5484cd7d712d8d4bded1b499fd4adb7",
+   "src/assets/logo-40.png": "750842e18701232c92c61da7e2e1ee8800b5ce9fb6100f19e30870c9e1de9ece",
+   "src/assets/logo-60.png": "767dfd57ea525b13ea29f71ff41163beb1ec611353ac394c4d641a0505fbdcbc",
+   "src/assets/apple-touch-icon.png": "132c2612a5906f523972ff45d8d719a1fd38de2952d666d243b59fabbeef60e9"
+  }
+ },
+ "premultiplied": true,
+ "favicon": {
+  "rects": 10,
+  "xEdges": [
+   2,
+   197,
+   359,
+   462,
+   506,
+   546,
+   698
+  ],
+  "yEdges": [
+   2,
+   168,
+   351,
+   516,
+   664,
+   688,
+   856
+  ]
+ },
+ "palette": {
+  "s0E0E0C": {
+   "hex": "#0E0E0C",
+   "at": [
+    75,
+    0
+   ],
+   "file": "reference/SAMPUL ROUMA JPG.jpg.jpeg"
+  },
+  "s252523": {
+   "hex": "#252523",
+   "at": [
+    1179,
+    13
+   ],
+   "file": "reference/SAMPUL ROUMA JPG.jpg.jpeg"
+  },
+  "s444442": {
+   "hex": "#444442",
+   "at": [
+    861,
+    1088
+   ],
+   "file": "brand/LOGO ROUMA JPG.jpg.jpeg"
+  },
+  "s7E7E7C": {
+   "hex": "#7E7E7C",
+   "at": [
+    651,
+    593
+   ],
+   "file": "brand/LOGO ROUMA JPG.jpg.jpeg"
+  },
+  "sBDBDBB": {
+   "hex": "#BDBDBB",
+   "at": [
+    780,
+    575
+   ],
+   "file": "brand/LOGO ROUMA JPG.jpg.jpeg"
+  },
+  "sEDECEA": {
+   "hex": "#EDECEA",
+   "at": [
+    688,
+    579
+   ],
+   "file": "brand/LOGO ROUMA JPG.jpg.jpeg"
+  },
+  "sF6F6F4": {
+   "hex": "#F6F6F4",
+   "at": [
+    1132,
+    13
+   ],
+   "file": "reference/SAMPUL ROUMA JPG.jpg.jpeg"
+  },
+  "sDADAD8": {
+   "hex": "#DADAD8",
+   "at": [
+    749,
+    576
+   ],
+   "file": "brand/LOGO ROUMA JPG.jpg.jpeg"
+  },
+  "s80807E": {
+   "hex": "#80807E",
+   "at": [
+    651,
+    594
+   ],
+   "file": "brand/LOGO ROUMA JPG.jpg.jpeg"
+  },
+  "s504F4D": {
+   "hex": "#504F4D",
+   "at": [
+    656,
+    574
+   ],
+   "file": "brand/LOGO ROUMA JPG.jpg.jpeg"
+  },
+  "s11110F": {
+   "hex": "#11110F",
+   "at": [
+    0,
+    0
+   ],
+   "file": "brand/LOGO ROUMA JPG.jpg.jpeg"
+  },
+  "accent": {
+   "hex": "#34F5BC",
+   "at": [
+    1188,
+    424
+   ],
+   "file": "reference/SAMPUL ROUMA JPG.jpg.jpeg"
+  }
+ }
+}
